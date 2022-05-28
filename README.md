@@ -9,7 +9,7 @@ During this Bachelor's program, I have discovered programmation through various 
 
 👀 I am a very curious person, passionate about econom(etr)ics, computer science, mathematics and (astro)physics. 
 
-🌱 I’m currently interested in exploring the applications of computer science in economics and thus to see how these tools could be (cleverly) used in this field. I am therefore interested in the applications of machine (and deep) learning in econom(etr)ics, but also in agent-based models for instance. 
+🌱 I’m currently interested in exploring the applications of computer science in economics and thus to see how these tools could be (cleverly) used in this field. I am therefore interested in the applications of machine (and deep) learning in econom(etr)ics, in the use of NLP methods, but also in agent-based models for instance. 
 
 📫 How to reach me : 
 - Email : maxime.lucet77@gmail.com
