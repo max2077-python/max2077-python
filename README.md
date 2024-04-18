@@ -1,3 +1,4 @@
+<!---
 ### Hi there 👋
 
 My name is Maxime LUCET.
@@ -14,6 +15,7 @@ During this Bachelor's program, I have discovered programmation through various 
 📫 How to reach me : 
 - Email : maxime.lucet77@gmail.com
 - LinkedIn : https://www.linkedin.com/in/maxime-lucet-9526841a6/
+--->
 
 <!---
 max2077-python/max2077-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
